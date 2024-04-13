@@ -49,8 +49,20 @@ Welcome to a more relentless and immersive experience in survival mode. Here’s
 5. **Enhanced Danger**
    - Persistent threats: Stalkers will periodically hunt you down, especially in areas you frequently visit, adding a continuous layer of threat to your survival efforts.
 
-Prepare yourself for an unforgiving journey through the Commonwealth, where every decision counts and survival is a constant battle.
+6. **Ghoul Overhaul**
+   - Increased ghoul presence: There are significantly more ghouls, enhancing the sense of danger and unpredictability.
+   - Improved ghoul AI: Ghouls now exhibit smarter behavior, waiting to ambush players, leading to more jump scares.
+   - Reskinned enemies: Ghouls and other enemies have been reskinned to appear much scarier, enhancing the horror element of the game.
 
+7. **Total Stealth Overhaul**
+   - Enhanced realism in stealth: Stealth mechanics have been overhauled to be more realistic. Using flashlights, having a robot companion, or firing a gun makes you much more noticeable.
+   - Persistent enemy engagement: Enemies no longer disengage or fall back to their original positions but continue to track and pursue the player relentlessly.
+
+8. **Sprinting and Explosives Adjustment**
+   - Modified sprinting: Sprinting is now faster, but players can sprint for much shorter durations, demanding better stamina management.
+   - Enhanced lethality of explosives: Molotovs, fire, and other explosives have a much larger range and are deadlier, requiring careful handling and strategic use.
+
+Prepare yourself for an unforgiving journey through the Commonwealth, where every decision counts and survival is a constant battle.
 
 ## Acknowledgements
 
