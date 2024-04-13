@@ -23,6 +23,35 @@ This project is intended to be viewed in [Obsidian MD](https://obsidian.md/) for
 4. Navigate to the cloned repository folder and open it.
 5. Navigate through the diary entries and click on the linked illustrations to view them in the context of the story.
 
+## Rules & Challenges
+
+Welcome to a more relentless and immersive experience in survival mode. Here’s what you need to know:
+
+### Rules
+- **Survival Mode**: The game must be exclusively played in Survival Mode to ensure that all challenges are impactful and the gameplay remains intense.
+
+### Challenges
+
+1. **Smart AI**
+   - Full overhaul of AI: Opponents now employ real tactics, travel in packs, and have enhanced accuracy, making them much more formidable.
+
+2. **Radiation Overhaul**
+   - Enhanced radiation zones: Radiation is now present in 4x more locations throughout the Commonwealth.
+   - Increased radiation damage: Radiation effects are quadrupled, meaning 1 rad in the normal game is equivalent to 4 rads now.
+
+3. **Realistic Loot**
+   - Scarce resources: Ammunition and essential supplies are significantly harder to find.
+   - Most found items are now considered worthless junk, adding to the challenge of scavenging.
+
+4. **Health and Damage Overhaul**
+   - Realistic combat dynamics: Bullets are deadly; receiving two bullets to the chest can be fatal, which applies to both the player and NPCs.
+
+5. **Enhanced Danger**
+   - Persistent threats: Stalkers will periodically hunt you down, especially in areas you frequently visit, adding a continuous layer of threat to your survival efforts.
+
+Prepare yourself for an unforgiving journey through the Commonwealth, where every decision counts and survival is a constant battle.
+
+
 ## Acknowledgements
 
 - Fallout 4 VR and all related properties are trademarks of their respective owners. This project is a fan-made interpretation and is not affiliated with the official game.
