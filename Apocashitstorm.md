@@ -17,7 +17,7 @@ We checked out the old neighborhood, fighting bugs and taking what we could. Lef
 Night’s coming, so we’re heading to Concord under the cover of dark. Can’t believe this is my life now.
 
 (Drawings: Drawn during first day, while waiting for the cover of night.)
-![Picture of Concord drawn during first day, while waiting for the cover of night|300][unitedpenguin1043_quickly_and_poorly_hand-drawn_depiction_of_va_b72157c3-8709-4d11-9c76-b2d2122bc61e.png] ![Picture of Concord drawn during first day, while waiting for the cover of night|300][unitedpenguin1043_A_hand-drawn_sketch_of_a_German_shepherd_at_a_5005de40-ca68-4446-847f-a11531613824.png]
+![Picture of Concord drawn during first day, while waiting for the cover of night|300][unitedpenguin1043_quickly_and_poorly_hand-drawn_depiction_of_va_b72157c3-8709-4d11-9c76-b2d2122bc61e.png] ![Picture of Dogmeat drawn during first day, while waiting for the cover of night|300][unitedpenguin1043_A_hand-drawn_sketch_of_a_German_shepherd_at_a_5005de40-ca68-4446-847f-a11531613824.png]
 
 **Apocashitstorm Tour, day 2 (October 24, 2287)**
 
@@ -47,5 +47,24 @@ Anyway, decked out in Daly's armor, I laid into the raiders. But as I was collec
 
 Low on ammo and with the power armor's core nearly spent, I had to ditch the heavy gear. Gathered what I could from the raider corpses, snagged a sawed-off shotgun among the loot. Met back up with the gang, and we decided it was time to move. We’re heading to Sanctuary, where I used to live. Hopefully, we can set up something stable there. It’s been one hell of a day, but at least we’re still breathing.
 
-![Picture of Concord drawn during first day, while waiting for the cover of night|400x400][unitedpenguin1043_A_poorly_drawn_hand-drawn_sketch_of_a_Museum__8d743cde-c7ff-4e68-93fd-8c287ddaac04.png]
+![Museum|400x400][unitedpenguin1043_A_poorly_drawn_hand-drawn_sketch_of_a_Museum__8d743cde-c7ff-4e68-93fd-8c287ddaac04.png]
 
+**Apocashitstorm Tour, day 4 (October 26, 2287)**
+
+Today was heavy, found an old tape in a run-down cabin, belonged to a girl who ran away the night before the bombs fell. Told her folks she was pregnant, they freaked out—her dad yelling, her mom just crying. She couldn't turn to the baby's father, just took refuge in that old cabin. Found a skeleton next to it, probably hers. Sad to think she might have come here for shelter only to meet the end.
+
+Then there's Preston, saying we need to rebuild, get the Minutemen back on their feet. Wants me to help people out here; couldn't say no. But damn, down to 29 bullets in my 10mm, and after today, I'm worrying how long I can keep this up.
+
+Stumbled upon Abernathy farm, a place literally built around a radio tower. Met Blake Abernathy, said raiders killed one of his daughters, Mary, and took her locket. His family, including his wife Connie, grows mostly tatos. They've got a cat named Maisie and a two-headed cow, or Brahmin as they call it, named Clarabell. This farm is like a slice of old-world normal in the middle of chaos.
+
+Saw my first Radstag too, or so I think there called, it's like a deer but a nastier, two-headed version. Found a Minuteman stash but no luck opening it. Then there was this old house, a skeleton in the bathtub—creepy spot with drugs scattered everywhere. 
+
+Got ambushed in the forest outside of Sanctuary. Thankfully, a scavenger distracted them long enough for me to take cover and handle the situation. Decided I need both Dogmeat and Codsworth with me. I don't like traveling in a pack of three, especially not with one being a robot. Were very loud and its hard to hide, but I need Cosworth to watch me and dogmeat's back. 
+
+These raiders are relentless. Blake thinks they're holed up at USAF base Olivia. Preston hears of another group terrorizing a settlement. I'm caught between needing to fight and wanting to avoid it. But if I'm to listen to Preston and head to this so called 'Diamond City' to chase leads that he thinks will help me find Shaun, I can’t have raiders on my trail.
+
+Thinking of hitting the USAF base first. It’s a military setup, so I should be familiar with the layout. They're targeting small outfits like Abernathy’s, so maybe they're not as strong as they seem. I need to gear up, though. Despite being ready physically, mentally, it's a whole other story. War was supposed to be behind me, not part of rebuilding a life.
+
+Tomorrow’s about prepping. If I can quiet down these raider threats, maybe, just maybe, I can make it to Diamond City without another target on my back. But, damn, this isn’t the life I signed up for—not again.
+
+![Picture of Concord drawn during first day, while waiting for the cover of night|400x400][unitedpenguin1043_A_hand-drawn_sketch_of_a_post-apocalyptic_far_7debbccd-e82f-47ba-b02a-691490754654.png]
