@@ -29,6 +29,7 @@ Welcome to a more relentless and immersive experience in survival mode. Here’s
 
 ### Rules
 - **Survival Mode**: The game must be exclusively played in Survival Mode to ensure that all challenges are impactful and the gameplay remains intense.
+- **Narrative**: The diary entries from the GPT must be accurate. If there are any hallucinations or exaggerations of events, they must be hand-corrected.
 
 ### Challenges
 
@@ -45,7 +46,8 @@ Welcome to a more relentless and immersive experience in survival mode. Here’s
 
 4. **Health and Damage Overhaul**
    - Realistic combat dynamics: Bullets are deadly; receiving two bullets to the chest can be fatal, which applies to both the player and NPCs.
-   - Bullets are now physical objects, bullet drop, accuracy, kickback, and more! No more hitscan or point-and-click firefights. 
+   - Bullets are now physical objects, bullet drop, accuracy, kickback, and more! No more hitscan or point-and-click firefights.
+   - Food no longer heals you.
 
 5. **Enhanced Danger**
    - Persistent threats: Stalkers will periodically hunt you down, especially in areas you frequently visit, adding a continuous layer of threat to your survival efforts.
