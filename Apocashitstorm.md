@@ -68,3 +68,29 @@ Thinking of hitting the USAF base first. It’s a military setup, so I should be
 Tomorrow’s about prepping. If I can quiet down these raider threats, maybe, just maybe, I can make it to Diamond City without another target on my back. But, damn, this isn’t the life I signed up for—not again.
 
 ![Picture of Concord drawn during first day, while waiting for the cover of night|400x400][unitedpenguin1043_A_hand-drawn_sketch_of_a_post-apocalyptic_far_7debbccd-e82f-47ba-b02a-691490754654.png]
+
+**Apocashitstorm Tour, day 5 (October 27, 2287)**
+
+Morning found me poking around the Wicked Shipping Fleet Lockup. It’s eerie how quickly places fall apart these days. Stumbled upon a bunch of corpses—only these weren't your usual dead. Codsworth calls them Feral Ghouls; pretty much zombies if you ask me. Had a close call with one that latched onto my leg, but I put it down fast. Managed to get a Protectron functioning and set it to handle the ghouls while I explored.
+
+Found a holotape left behind by someone named Tim Flynn, warning his brother Blake about a shady deal gone sour with a guy named Eddie. Talk about family drama turning potentially lethal. He was desperate to shut down their business and skip town, scared of the consequences.
+
+Heading back to Concord, I got ambushed by a group shouting "for the gunners," which I guess is their gang name. They were tough, well-armed, and trained, but not smart enough to avoid a choke point. Codsworth torched them with his flamethrower while I used the cabin for cover. Looted a full set of Combat armor off them; felt familiar and reassuring, like slipping into an old habit.
+
+Inside the cabin, I found a root cellar turned into a sort of makeshift bunker with supplies and a weapon workbench. The real surprise was the ghoul inside—turned out to be Wayne Gorski, a radical libertarian who thought the government was out to control minds with new electrical pylons. Found his terminal detailing plans to blow up the "mind control device" with a homemade bomb from mini nuke parts and nuclear waste. Talk about going out with a bang. Thankfully, his plan never took off—world ended before his did.
+
+Decided to spend the night in that cabin. It’s quiet, and after today, quiet’s good. Seems every corner of this wasteland hides someone’s broken dream or a nightmare waiting to jump out. But this armor feels right, gives me a bit of the old days back. Tomorrow's another day to push forward, hopefully with a little less unexpected company.
+
+**Apocashitstorm Tour, day 6 (October 28, 2287)**
+
+Today, I headed back to Concord to cover some ground I missed earlier. It started off grim enough with a fire still burning and two dead bodies next to it. No time to ponder that scene, as I heard noise from a nearby house on the ridge. Suddenly, these robot-like creatures, a blend of machine and something eerily human, came storming out. They were armed with these weird, modified blue laser pistols.
+
+Taking cover, I opened fire. These things, synths they're called, soaked up bullets like sponges. It took a ridiculous amount of lead to bring them down—arms, then legs, and finally a shot to the head did it. Found something called a 'synth component' inside their skulls, which is where I got there name from. Each ship came with with a serial number, wonder how many of these things there are. Those things pack a punch; was lucky to have a stimpack to patch myself up.
+
+Inside the house, I found a dead junkie, looked like he tried to fight but didn’t stand much chance. Took the chems off him and moved on. Found a letter nearby titled 'The Day the Bombs Fell'—a suicide note from Concord's mayor talking about his family. This world’s just full of sad stories.
+
+Next was the Concord speakeasy. The place was a mess, full of overdose victims and scattered chems like X-cell and Day Tripper. There was this one room with a skeleton in a bathtub, surrounded by mannequins posed with machetes and a plunger. Creepy doesn’t even start to cover it. Rushed out of there when I encountered two feral ghoul kids. Broke my heart, but had to put them down.
+
+Made my way to the Concord Workhouse after that. Mostly empty, but found a skeleton clutching a duffle bag on the third floor, a baby rattle lying next to it—a small, haunting reminder of normal life. Just as I was about to leave, a group of Gunners barged in. Big shootout ensued. They had numbers, but I had the high ground. Nearly took a bullet to the head, but my combat armor's helmet saved me. Managed to escape without a scratch.
+
+Concord’s giving me more than I bargained for—ghosts of the past and very real dangers of the present. Keeps you on your toes, this place. But with each day, each fight, I'm finding bits and pieces of what it takes to survive here. Just got to keep moving, stay sharp.
