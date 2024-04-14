@@ -67,7 +67,7 @@ Thinking of hitting the USAF base first. It’s a military setup, so I should be
 
 Tomorrow’s about prepping. If I can quiet down these raider threats, maybe, just maybe, I can make it to Diamond City without another target on my back. But, damn, this isn’t the life I signed up for—not again.
 
-![Picture of Concord drawn during first day, while waiting for the cover of night|400x400][unitedpenguin1043_A_hand-drawn_sketch_of_a_post-apocalyptic_far_7debbccd-e82f-47ba-b02a-691490754654.png]
+![Abernathy farm|400x400][unitedpenguin1043_A_hand-drawn_sketch_of_a_post-apocalyptic_far_7debbccd-e82f-47ba-b02a-691490754654.png]
 
 **Apocashitstorm Tour, day 5 (October 27, 2287)**
 
@@ -80,6 +80,8 @@ Heading back to Concord, I got ambushed by a group shouting "for the gunners," w
 Inside the cabin, I found a root cellar turned into a sort of makeshift bunker with supplies and a weapon workbench. The real surprise was the ghoul inside—turned out to be Wayne Gorski, a radical libertarian who thought the government was out to control minds with new electrical pylons. Found his terminal detailing plans to blow up the "mind control device" with a homemade bomb from mini nuke parts and nuclear waste. Talk about going out with a bang. Thankfully, his plan never took off—world ended before his did.
 
 Decided to spend the night in that cabin. It’s quiet, and after today, quiet’s good. Seems every corner of this wasteland hides someone’s broken dream or a nightmare waiting to jump out. But this armor feels right, gives me a bit of the old days back. Tomorrow's another day to push forward, hopefully with a little less unexpected company.
+
+![Ghoul|400x400][unitedpenguin1043_pocketbook_drawing_if_a_zombie_667f8523-6798-45af-a5ea-fc09b063756d.png]!
 
 **Apocashitstorm Tour, day 6 (October 28, 2287)**
 
@@ -94,3 +96,37 @@ Next was the Concord speakeasy. The place was a mess, full of overdose victims a
 Made my way to the Concord Workhouse after that. Mostly empty, but found a skeleton clutching a duffle bag on the third floor, a baby rattle lying next to it—a small, haunting reminder of normal life. Just as I was about to leave, a group of Gunners barged in. Big shootout ensued. They had numbers, but I had the high ground. Nearly took a bullet to the head, but my combat armor's helmet saved me. Managed to escape without a scratch.
 
 Concord’s giving me more than I bargained for—ghosts of the past and very real dangers of the present. Keeps you on your toes, this place. But with each day, each fight, I'm finding bits and pieces of what it takes to survive here. Just got to keep moving, stay sharp.
+
+**Apocashitstorm Tour, day 7 (October 29, 2287)**
+
+This morning set out feeling solid with this new armor—like I could take on whatever this wasteland throws at me. On the way to check out a farm Preston mentioned, I decided to swing by the USAF Satellite Station Olivia first.
+
+Came across a quarry on the route but noticed someone lingering around, so I gave it a wide berth for now—another place to circle back to later.
+
+Reaching USAF Olivia, I almost got an explosive welcome thanks to a landmine strapped to a molerat. It detonated a bit too close for comfort, but nothing a little shaking off couldn't fix. The outside was eerily quiet, the raiders apparently wiped out by a molerat invasion. Made my job easier taking out the stragglers and scavenging what I could from the bodies.
+
+Inside, it was clear these raiders weren’t the sharpest tools in the shed. Decked out in shoddy leather armor, they went down with minimal fuss. There was talk of their leader, Ack-Ack, but no sign of them. Guess they took some folks and hit the road. The place was undermanned, a couple of raiders downstairs, one upstairs. I took the quiet route with the one upstairs, using my knife—it was messy, and it's doing a number on me, seeing all that blood. Downstairs, a small skirmish was all it took to clear the area. Found the locket that belonged to the Abernathy's daughter—I hope returning it gives them some peace and wards off any future raider trouble.
+
+Stumbled upon a crashed vertibird too, with a full set of power armor nearby, tagged with Gunner graffiti. No fusion core, but it’s a find I'll haul back to Sanctuary Hills later.
+
+Made it up to Tenpines Bluff, the spot Preston mentioned. It’s a small setup, just two folks there, but they’re willing to join the Minutemen if I help fend off some raiders. Problem is, those raiders are a bit of a trek away. I’m worried the farm might not hold till I can deal with that threat. Also found a derailed train on my path, but no loot worth mentioning.
+
+Ended up scoring a rusty, wooden pipe revolver with about 100 rounds. Not the prettiest or the best, but it’s reliable enough to be my new go-to weapon.
+
+Wrapped up the day at a local farmer's place who was kind enough to let me bunk for the night. Despite the day's grim tasks, it's these small kindnesses that keep the hope alive. Tomorrow's another day on this trail—hopefully, one that leads to less blood and more bonds.
+
+**Apocashitstorm Tour, day 8 (October 30, 2287)**
+
+Day broke with the farmer handing me a stimpack and some radaway. Kindness like that is rare out here. Her dog was a friendly one too, a bit of cheer in the grim reality.
+
+On my way, spotted some makeshift windmills atop an old highway—turned out to be a pretty fortified base. Noticed the Gunners' symbol, that skull with an X. They had a turret, nearly got me as I was initially in its blind spot. Managed to duck just in time, saving my skin.
+
+Approaching the base, I saw a raid party of about ten heading out, leaving it lightly guarded. Perfect timing. Codsworth, Dogmeat, and I stormed in. With most of their force gone, those left didn’t stand a chance—it was over quick. Sadly, meant the best loot was probably out with the patrol. Found some chems and a real sturdy piece of custom armor, even better than pre-war stuff. Grabbed what I could and got out fast before the patrol could return. Didn’t want to stick around for that confrontation.
+
+Came across a downed plane later, "Skylines Flight 1981" painted on the side. Looked like an EMP from the bombs brought it down. It was getting dark, so didn’t stick around to loot—might head back there later.
+
+Picked up that power armor I found yesterday near the crashed vertibird. Good thing too, because on my way back, two massive crab-like creatures burst from the water. No time to fight that battle, especially wanting to conserve ammo, so I booked it in the armor.
+
+Heard gunshots and yelling not too far off, rushed to check it out while still in the armor. Found a guy at a camp with a crossbow. He tried a tricky move, pretending to be friendly then attacked. Power armor came through, stopped his melee cold. Had to take him down after that—turned out he wanted the armor for himself.
+
+It’s getting late, and after today’s escapades, it’s time to head back to Sanctuary. Got a feeling things are just heating up around here, but at least I'm heading back better armed and armored. This world, it keeps you on your toes, always expecting the unexpected.
