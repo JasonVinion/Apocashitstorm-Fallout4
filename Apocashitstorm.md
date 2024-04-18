@@ -130,3 +130,37 @@ Picked up that power armor I found yesterday near the crashed vertibird. Good th
 Heard gunshots and yelling not too far off, rushed to check it out while still in the armor. Found a guy at a camp with a crossbow. He tried a tricky move, pretending to be friendly then attacked. Power armor came through, stopped his melee cold. Had to take him down after that—turned out he wanted the armor for himself.
 
 It’s getting late, and after today’s escapades, it’s time to head back to Sanctuary. Got a feeling things are just heating up around here, but at least I'm heading back better armed and armored. This world, it keeps you on your toes, always expecting the unexpected.
+
+**Apocashitstorm Tour, day 9 (October 31, 2287)**
+
+Made it back to Sanctuary to some encouraging news. Preston updated me that the Abernathys have joined the Minutemen. We're slowly turning Sanctuary into something resembling a livable place again, setting up basic necessities like beds, water, and food. Given the increased Gunner activity after my recent outpost raid, I beefed up security at the old Red Rocket station. It's got a solid metal door and I've sealed off other entries, making it a tough nut to crack.
+
+Sure enough, a Gunner patrol showed up looking to scavenge. Despite my warnings, they opened fire, so I had to take cover and defend the place. Once the dust settled, I looted their gear and headed down the road, where I met Trashcan Carla. Traded some junk for her ammo and radaway—a good deal.
+
+Further down, I stumbled upon the Drumlin Diner, where a standoff was unfolding. Wolfgang, a chem dealer, was arguing with Trudy, the diner owner, because her son Patrick hadn't paid for some Jet he bought. I tried to mediate, but things escalated. I sided with Trudy—wasn't about to support a drug pusher. After the shootout, Trudy was grateful and offered to trade with me. The place had a post-war vibe, didn't recognize it from before.
+
+My journey took me to Lexington, a place that's too quiet for comfort. Checked out a parking garage first—few ghouls, no loot. Then I found the Super Duper Mart. Looks promising, but I'll have to come back when I have more time.
+
+In downtown Lexington, the streets crawled with ghouls, and raiders occupied the rooftops. One raider was decked out in power armor, wielding a Fat Man—a portable nuke launcher, absurdly powerful and dangerous. I steered far clear of that madness.
+
+Ended up discovering a bizarre scene at an old bank: the vault blasted open from the inside, a skeleton sprawled among heaps of pre-War money, another half out of a destroyed car, a failed escape attempt.
+
+An eyebot attacked some ghouls and then mistook me for a threat, so I had to take it down. Worried about drawing more attention, I decided to retreat to the parking garage to camp out for the night. Better to lay low until daylight. This world's relentless, but these small victories and steady progress in rebuilding the Minutemen give me a sliver of hope. Tomorrow's another day to fortify, explore, and survive.
+
+**Apocashitstorm Tour, day 10 (November 1, 2287)**
+
+Today was intense, even by wasteland standards. Started off in the Lexington apartments, full of traps—a landmine and a tripwire with a grenade bouquet. Thankfully, my training paid off, and I spotted them before any damage was done. The top was a grim sight with just a pile of bloody remains and not much loot.
+
+Spent the rest of the day at the Corvega Assembly Plant, and it was an ordeal. The place was crawling with raiders. They had snipers on high ground, assault rifles on the low, and melee attackers on my level. Despite their numbers and decent fortification, these raiders were no match for actual tactical thinking—they were poorly armored and dumb as rocks.
+
+The battle felt endless, a relentless barrage of fire that could’ve taken down a green power armor patrol. My pre-war combat experience really kicked in today. I dug in, created a small fortified position, and weathered the storm of bullets and explosions. It was hours of being pinned down, but slowly, I thinned their ranks, moved up, and cleared out the snipers who couldn’t handle close combat.
+
+Inside the factory, it got dicey again. Close quarters is more my style, but even so, I took a couple of hits and burned through several stimpacks. Found the raider leader, Jared, holed up near the top, guarded by machine gun turrets and spotlights. After a grueling fight, I accessed Jared's terminal and learned a lot about their operations and his obsession with gaining prophetic powers from chems, clearly driven by some twisted past and a desperate need to dominate the Commonwealth.
+
+With the plant secured at sunset, I was ready to set up camp away from the madness but picked up a distress signal on the radio. Decided to follow it instead of resting.
+
+On my way, I encountered a peculiar woman dressed in pre-war clothes, rambling about bus speeds—radiation does strange things to folks. Passed a college administration building but had to keep moving due to nearby gunshots.
+
+Found the source of the distress call—more chaos. A group was pinned down by a horde of ghouls. Jumped in to help and met the Brotherhood of Steel, with one of their guys in power armor absorbing most of the assault. Managed to help them fend off the attackers.
+
+Exhausted and out of options, I took the Brotherhood’s offer to crash at their place for the night. Tomorrow, I’ll learn more about them, but for now, all I can think about is shutting my eyes for a few hours. This world, it’s relentless, but today, I think I made a small difference.
