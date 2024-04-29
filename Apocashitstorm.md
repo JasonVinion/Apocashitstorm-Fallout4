@@ -164,3 +164,59 @@ On my way, I encountered a peculiar woman dressed in pre-war clothes, rambling a
 Found the source of the distress call—more chaos. A group was pinned down by a horde of ghouls. Jumped in to help and met the Brotherhood of Steel, with one of their guys in power armor absorbing most of the assault. Managed to help them fend off the attackers.
 
 Exhausted and out of options, I took the Brotherhood’s offer to crash at their place for the night. Tomorrow, I’ll learn more about them, but for now, all I can think about is shutting my eyes for a few hours. This world, it’s relentless, but today, I think I made a small difference.
+
+**Apocashitstorm Tour, day 11 (November 2, 2287)**
+
+Today was more about building than battling, though the wasteland never lets you off easy. Started off back at Sanctuary, putting in the work to make it a place people can actually live in again. I set up supply lines, bolstered our defenses, and sorted out more sustainable food sources. It's starting to feel like a community, which is something I haven't felt in a long time.
+
+After Sanctuary, I moved on to Tenpines Bluff, giving them a similar treatment. It's crucial that these settlements can stand on their own and connect with others. Building up these places isn't just about survival—it's about creating a network, making it harder for raiders or worse to wipe us out.
+
+The day took a turn when I met Sully Mathews. Guy pretended to be friendly at first, but it didn't take long for his true colors to show. Had to take him down. It's tough, dealing with betrayal out here, makes you wonder if the old world ever really had a chance.
+
+Next, I cleared out a place called Sunshine Tidings co-op. It was a bit of a mess, but there's a Mr. Handy there that's been reprogrammed to just chill out. Its whole vibe is about keeping things mellow, greeting everyone with a laid-back "Groovy," which was a surreal bit of humor amidst the decay.
+
+Ended the day finding a lonely chapel. It was too late to explore it properly, so I've decided to check it out tomorrow. For now, I need some rest, to recharge after a day of building and fighting. It's nights like these, quiet except for the distant howls and wind, that you really feel the weight of the new world we're trying to forge from the scraps of the old.
+
+**Apocashitstorm Tour, day 12 (November 3, 2287)**
+
+Started my day at the lonely chapel, hoping for some quiet reflection, but instead found it overrun by a group of raiders calling themselves the Hellraiser Raiders. No peace in this world, not even in a place of worship.
+
+After dealing with them, Preston and I made our way up a hill to the Federal Ration Stockpile. Turns out, the Hellraiser Raiders were already engaging with another raider group there. We let them thin each other out before taking a sniper position to clean up the remnants. During the skirmish, a guy in power armor nearly blindsided us. He charged up suddenly, but we kept our cool, coordinated, and managed to take him down. It was a close call, the kind that reminds you how quickly things can turn deadly out here.
+
+Inside the stockpile, I uncovered a tangled web of raider politics. The place was run by Red Tourette, who was in a bitter feud with Tower Tom from Beantown Brewery. It seems their rivalry escalated after a failed negotiation over food supplies, leading to Tom kidnapping Red's sister Lily to ransom for supplies. Despite her efforts, including sending spies to infiltrate Tom's crew, Red never saw her sister again.
+
+After a tough fight, I ended Red and her gang's reign at the stockpile. The constant threat of violence is draining, but these places need clearing if we're ever going to have any order.
+
+The night brought its own terrors—an ambush in the darkness. All I saw were the muzzle flashes and the tracer rounds cutting through the black. It was disorienting, and I'm not even sure if I took them all out or if some fled.
+
+Later, we found Bleachers Cave. Met a guy pretending to need help, but it turned out to be a trap—he was a raider trying to recruit us. Preston and I played along until they lowered their guards, then we turned the tables. It was ruthless but necessary. Trust is a rare commodity out here, and it's not freely given.
+
+Finally, stumbled upon Relay Tower 0BB-915. It's a striking structure, a red and white radio tower, encircled by a chain link fence. Managed to use the terminal to extend its satellite dishes. It's these kinds of resources that can make a difference, maybe help us get a better handle on the area and any threats looming on the horizon.
+
+**Apocashitstorm Tour, day 13 (November 4, 2287)**
+
+This morning, we found the Fort Hagen Satellite Array, now controlled by a group known as the Rust Devils. Unlike typical raiders, these folks are tech-savvy, using customized machines and robots to bolster their raiding capabilities. Dealing with their machine gun turret at the main gate was a tough start to the day.
+
+Next, we discovered the Boston Mayoral Shelter. The place was a grim reminder of pre-war corruption and despair. Funded by taxpayer money for the mayor's personal use, this luxurious bunker was fitted with every possible amenity while the common folk faced annihilation. After the bombs, when desperate citizens stormed the shelter seeking refuge or revenge, the mayor took his own life in a tragic attempt to protect his family—a plan that ultimately failed when the mob broke through.
+
+While exploring the shelter, we were suddenly ambushed by synths—synthetic humans created by the Institute, known for their toughness and often mysterious motives. The encounter was fierce, and their appearance here was as puzzling as it was dangerous. Managed to avoid a Deathclaw lurking in a nearby cave by sneaking around. Those beasts are nothing but trouble.
+
+On our journey, we passed through Forest Grove Marsh. Once a quaint suburban area, now it's a dilapidated, half-submerged ghost town, overrun with nature and feral ghouls. It's a stark example of how quickly civilization has crumbled.
+
+Found another relay tower today and got it up and running. Extending its satellite dishes might give us a better reach and understanding of nearby signals and threats.
+
+Our day ended at Oberland Station, a small railway checkpoint turned settlement. Despite its size, it's surprisingly well-set up for defense with its compact structure, making it ideal for fortifications. The settlers there have a humble setup with a small farm and are under constant threat from raiders and super mutants—a brutish, aggressive offshoot of humanity altered by radiation. They've asked for help dealing with some nearby super mutants, promising to align with the Minutemen if we can secure their safety. Given their strategic position and potential as a reliable ally, it seems worth the effort.
+
+Decided to spend the night here at Oberland Station. Tomorrow, I'll deal with the super mutant threat. 
+
+**Apocashitstorm Tour, day 14 (November 5, 2287)**
+
+Today started with a tough mission clearing out the super mutants at Fraternal Post 115. This place, a remnant from before the Great War, was meant to be a sanctuary for veterans. It's a hauntingly familiar sight with its shattered remains and poignant memories etched into every corner. We encountered the leader of the super mutants, "Dead Eye," a hulking brute. I managed to take him down before he could alert the rest, preventing a potentially overwhelming confrontation.
+
+After wrapping up at Fraternal Post 115, we headed to the College Square station, an underground labyrinth once bustling with life, now overrun with feral ghouls and echoing with the silent screams of raiders who didn't make it out. The station, filled with traps and remnants of the old world, required careful navigation and constant vigilance as we cleared it out for the Brotherhood of Steel.
+
+On our way through the area, we discovered Mystic Pines, a serene but eerie retirement home from before the war, now a shell of its former self. The quiet halls that once echoed with the stories of the elderly are now just a haunting backdrop for the desolation of the post-apocalypse.
+
+Our next significant encounter was clearing the Super Duper Mart in Lexington. This location holds a tragic piece of recent history—it's where Preston Garvey and his group of survivors briefly sought refuge during their escape from the Quincy Massacre. Unfortunately, it was also where two of their members met their grisly end, overwhelmed by the feral ghouls that infest the building now. The Mart, once a place of commerce and community, now serves as a grim reminder of how quickly safety can turn to peril.
+
+Finally, after a long and harrowing day, I made it to Diamond City. Known as the "Great Green Jewel" of the Commonwealth, it's a fortress of civilization amidst the chaos. It's late, and the neon lights flicker promisingly against the night sky. Tomorrow, I'll explore the city, but for tonight, I'm just grateful for a safe place to rest.
