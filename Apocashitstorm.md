@@ -220,3 +220,62 @@ On our way through the area, we discovered Mystic Pines, a serene but eerie reti
 Our next significant encounter was clearing the Super Duper Mart in Lexington. This location holds a tragic piece of recent history—it's where Preston Garvey and his group of survivors briefly sought refuge during their escape from the Quincy Massacre. Unfortunately, it was also where two of their members met their grisly end, overwhelmed by the feral ghouls that infest the building now. The Mart, once a place of commerce and community, now serves as a grim reminder of how quickly safety can turn to peril.
 
 Finally, after a long and harrowing day, I made it to Diamond City. Known as the "Great Green Jewel" of the Commonwealth, it's a fortress of civilization amidst the chaos. It's late, and the neon lights flicker promisingly against the night sky. Tomorrow, I'll explore the city, but for tonight, I'm just grateful for a safe place to rest.
+
+**Apocashitstorm Tour, day 15 (November 6, 2287)**
+
+Today was a dive into the bustling heart of the Commonwealth: Diamond City. Nestled within the confines of an old baseball stadium in the Fens neighborhood of Boston, the settlement's transformation from sports venue to fortified city is nothing short of remarkable. The massive green door that serves as the main entrance sets the tone for what is arguably the safest and most prosperous place in the wasteland.
+
+Inside, I met Mayor McDonough, caught in a heated exchange with Piper Wright, a local journalist. Piper accused him of suppressing freedom of the press, though her conspiracy theories about McDonough being a synth made it hard to gauge where the truth actually lay. Regardless, Piper pulled me aside for an interview, keen on getting my take as a newcomer, which I obliged.
+
+Diamond City, with its robust police force, a public school, and self-sustaining agriculture, stands as a beacon of stability. The residents thrive under the protection of "the Wall," a pre-war relic that now symbolizes safety against the chaos outside. Painted green and meticulously maintained by a man named Abbot, the Wall is revered by the community. McDonough, leveraging its symbolic value, often speaks of it as the "great green guardian" that has safeguarded the city for over 150 years.
+
+The social structure here is stark, with the wealthier citizens residing in the Upper Stands, enjoying views over the Lower Fields where the working class and less affluent live. This divide was exploited by McDonough during his anti-ghoul campaign, which led to the ghastly purge of 2282 where many ghouls were expelled, their properties seized by the human residents. This act not only solidified McDonough’s power but also calmed the poorer citizens by redistributing the confiscated wealth.
+
+Diamond City also prides itself on offering free education to all children and hosts a non-denominational chapel that welcomes all for prayer and reflection. The city's energy needs are met by a fusion generator, an ironic nod to the nuclear technology that both doomed and now sustains human civilization.
+
+The day was an eye-opening experience into how society can rebuild itself under the right conditions, yet it also highlighted the complexities and moral ambiguities that come with governance in a post-apocalyptic world. As night falls over Diamond City, I'm left pondering the delicate balance between security and freedom, and the lengths to which people will go to maintain the former at the expense of the latter.
+
+**Apocashitstorm Tour, day 16 (November 7, 2287)**
+
+Kicked off today with a showdown at Swan's Pond that I won’t soon forget. Swan isn’t just any behemoth; he's something else. Before turning into this massive beast, he was part of some messed up experiments. They turned a guy into a monster living in a pond—found this out from some old notes left around the place.
+
+Facing Swan was like going toe-to-toe with a tank. I had my shotgun ready and a bunch of grenades. The fight was brutal. Swan’s throwing huge rocks and debris, and I’m there, dodging and chucking grenades, firing off rounds whenever I got a clear shot. Took a lot to bring him down, felt like it could go south any second. When he finally fell, it was a relief, but also kind of sad, knowing he used to be just some guy.
+
+After dealing with Swan, I headed over to Vault 114 inside Park Street Station. This vault was supposed to be for the fancy folks, but turned out to be a real mess. They were promised luxury and got stuck living on top of each other instead. The guy in charge when the bombs fell, Soup Can Harry, was a real piece of work—no experience, just there because he didn’t like the government. They picked him on purpose to stir up trouble among the rich folks.
+
+Inside, I found Nick Valentine, a detective, but not just any detective—he’s a synth. That was a curveball. He was locked up by Skinny Malone and his gang of Triggermen. These guys are like something out of an old mob movie, suits and all. They think they’re living out some kind of gangster fantasy, but they're just thugs.
+
+Skinny used to know Nick from before, so instead of killing him, he kept him alive. Guess there's some honor among thieves, or at least among these Triggermen. Managed to talk our way out of a bigger fight, and got Nick out of there. 
+
+By the time we got out of the vault, it was a load off to be back in Diamond City. Today felt like a week, what with taking down a giant and diving into some crazy vault history. Makes you think about how twisted things were even before everything went to hell. Now it's time to crash, process all this, and get ready for whatever's next.
+
+![Sawn|400x400][unitedpenguin1043_crude_hand_drawn_notebook_sketch_of_a_giant_s_f7892458-309a-4cc3-b6d2-046fa36f7188.png]
+
+**Apocashitstorm Tour, day 17 (November 8, 2287)**
+
+This morning started with the kind of cold determination that could freeze over the entire Commonwealth. Today was all about one thing—tracking down Kellogg. This guy wasn't just any thug; he was a seasoned hunter, the kind who's left bodies and broken lives across the wasteland. Nick Valentine was with me, piecing together the last crumbs of leads we had on him.
+
+First stop was Nick's office in Diamond City. We got to looking through old files and interviewing folks around. We got a tip that Kellogg had been seen with a kid who matched Shaun's description. More than just a lead—it was a fire lighting under me. 
+
+We talked to Piper, hoping she might've picked up something in her news runs. Sure enough, she remembered seeing Kellogg around with a child, not just once, but a couple of times. She pointed us towards Kellogg’s last known residence in Diamond City. The place was locked up tight, his personal fortress. None of the neighbors keen to talk much about him—just gave those wary looks that said they knew more but weren't willing to share.
+
+Breaking into Kellogg’s house needed a bit more than a bobby pin and a steady hand. Thankfully, Mayor McDonough, under some pressure and a few stern looks, reluctantly agreed to give up the key. Said it was for the "greater good of Diamond City." Inside, the place was a goldmine of clues. Cigars still fresh, some ammo scattered about, and one room almost too clean, like it was scrubbed down recently.
+
+That’s where Dogmeat proved invaluable. Gave him a whiff of those cigars, and like a missile locked onto a target, he was off. We followed him out of the city, heading north into the wilds of the Commonwealth, the ruins becoming thicker as civilization faded into the background.
+
+The trail was cold and hard. Dogmeat led us through old military checkpoints, raider camps picked clean, and territories that smelled of death and decay. We stumbled into a band of super mutants hunkered down in an old satellite array. Had to navigate through that mess with bullets flying. Not the kind of detour you hope for, but it was either through them or around, and around would've cost us the trail.
+
+After what felt like miles of rough terrain, Dogmeat stopped at a small pond. There was a stash there, Kellogg's alright. More of those cigars and a bloody bandage. The scent was stronger, almost yelling at us from the ground. We weren't just on his trail now; we were on his heels.
+
+The path took a sharp turn to Fort Hagen. As we approached, the air got thicker, the kind of quiet that screams trouble. Nick and I exchanged a look—this was it. The building loomed, dead and daunting. The security was tight, with turrets and synths guarding the perimeter. Kellogg wasn’t just hiding; he was fortified.
+
+Inside Fort Hagen, the air was stale, the corridors a maze of pre-war bureaucracy turned death trap. Kellogg’s voice crackled over the intercom, taunting, trying to rattle me. But every word only sharpened my focus. We fought through layers of security—more synths, automated defenses, all thrown at us with cold precision.
+
+Finally, the confrontation. Kellogg was there, just as real and dangerous as the stories made him out to be. The room was dim, lit only by the glow of old monitors and the occasional flicker of a failing light. He tried to talk, said things about the new world, about survival and destiny. But his words were just noise against the backdrop of my roaring blood.
+
+The fight was brutal and direct. No tricks, no running. Bullets flew, cover was scarce. In the end, it was just two men with their causes, and only one walking away. As he lay there, a finality settled over the room. I searched his body, finding near nothing.
+
+Walking out of Fort Hagen, the weight of the day was heavy. I'm no closer to Shaun, closer to ending this nightmare. The sun was setting, casting long shadows over the Commonwealth, a stark reminder that no victory here is without its darkness.
+
+Tomorrow, I follow Nick's clues, said he might just have an idea to find Shaun. But tonight, I rest, and I remember why I fight. It’s for Shaun, for Nora, for the chance to set things right in this twisted new world.
+
